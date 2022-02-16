@@ -1,0 +1,85 @@
+{
+  "accountName": "SkinnyMe Tea",
+  "description": "Tea in Toxins out 4 ; 4 years and over 350k happy customers later ; Start today and see the results for yourself ; www.skinnymetea.com.au",
+  "accountPhoto": "assets/images/S1.jpeg",
+  "details": [
+    {
+      "title": "Posts",
+      "subtitle": "2323"
+    },
+    {
+      "title": "Followers",
+      "subtitle": "200k"
+    },
+    {
+      "title": "Following",
+      "subtitle": "2170"
+    }
+  ],
+  "posts": [
+    {
+      "asset": "assets/images/S2.jpeg",
+      "likes": 100
+    },
+    {
+      "asset": "assets/images/S3.jpeg",
+      "likes": 500
+    },
+    {
+      "asset": "assets/images/S4.jpeg",
+      "likes": 10000
+    },
+    {
+      "asset": "assets/images/S5.jpeg",
+      "likes": 5000
+    },
+    {
+      "asset": "assets/images/S6.jpg",
+      "likes": 100000
+    },
+    {
+      "asset": "assets/images/S7.jpg",
+      "likes": 20
+    },
+    {
+      "asset": "assets/images/S8.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S9.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S10.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S11.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S12.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S13.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S14.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S15.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S16.jpg",
+      "likes": 9000
+    },
+    {
+      "asset": "assets/images/S17.jpg",
+      "likes": 9000
+    }
+  ]
+}
